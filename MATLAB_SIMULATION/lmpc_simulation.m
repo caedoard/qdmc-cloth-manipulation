@@ -1,7 +1,7 @@
 % Solve the MPC problem where the COM is a linear cloth model and the SOM
 % is the Coltraro's cloth model.
-%
-% Author: David Parent, davidparentalonso@gmail.com
+% Author: Edoardo Caldarelli, ecaldarelli@iri.upc.edu
+% Code adapted from previous work by David Parent, davidparentalonso@gmail.com
 % Last review: 07/02/2021
 
 clear; close all; clc;
