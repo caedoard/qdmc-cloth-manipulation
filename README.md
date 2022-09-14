@@ -11,3 +11,5 @@ The nodes are:
 - `qdmc_rt_node_wind_disturbance.cpp` and `qdmc_opti_node_wind_disturbance.cpp` for running the standard QDMC algorithm with a known wind profile incorporated in the prediction model;
 - `qdmc_opti_node_stochastic.cpp` for replacing the deterministic constraints of standard QDMC with our chance constrained formulation (used for obstacle avoidance).
 
+**Contact author:** Edoardo Caldarelli, ecaldarelli@iri.upc.edu
+
