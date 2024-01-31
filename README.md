@@ -1,6 +1,6 @@
 ## Matlab Code
 
-This repository contains the Matlab files for the simulation of QDMC and linear MPC applied to cloth manipulation. The simulations can be run by simply executing the files `qdmc_simulation.m`, `lmpc_simulation.m`, `qdmc_obstacle_avoidance_chance.m`, `lmpc_obstacle_avoidance_chance.m` in Matlab.
+This repository contains the Matlab files for the simulation of QDMC and linear MPC applied to cloth manipulation, accompanying the paper "Quadratic dynamic matrix control for fast cloth manipulation", by E. Caldarelli, A. Colomé, C. Ocampo-Martinez, and C. Torras, 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, USA. The simulations can be run by simply executing the files `qdmc_simulation.m`, `lmpc_simulation.m`, `qdmc_obstacle_avoidance_chance.m`, `lmpc_obstacle_avoidance_chance.m` in Matlab.
 
 ## QDMC ROS Nodes
 
